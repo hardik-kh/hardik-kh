@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hardik-khandelwal
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning React Native/Pyhton(CP)
 - 💞️ I’m looking to collaborate for projects
 
 <!---
