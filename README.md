@@ -1,6 +1,7 @@
 #### - 👋 Hi, I’m @hardik-khandelwal
 #### - 🌱 I’m currently learning React Native/Python(CP)
 #### - 💞️ I’m looking to collaborate for projects
+<img src="gif.mp4" height="200" width="200">
 
 
 
