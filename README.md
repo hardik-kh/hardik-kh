@@ -1,8 +1,8 @@
-
+<img src="program.gif" height="400" width="700" align="right">
 #### - 👋 Hi, I’m @hardik-khandelwal
 #### - 🌱 I’m currently learning React Native/Python(CP)
 #### - 💞️ I’m looking to collaborate for projects
-<img src="program.gif" height="200" width="200" align="right">
+
 
 
 
