@@ -1,4 +1,4 @@
-<img src="program.gif" height="300" width="500" align="right">
+<img src="program.gif" height="300" width="400" align="right">
 
 #### - 👋 Hi, I’m @hardik-khandelwal
 #### - 🌱 I’m currently learning React Native/Python(CP)
