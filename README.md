@@ -14,7 +14,6 @@
 <br/>
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hardik-kh&theme=dark" align="center" height =""180>
 
 
 <div>
