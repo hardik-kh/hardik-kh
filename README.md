@@ -1,6 +1,7 @@
 
 
 <img src="program.gif" height="250" width="350" align="right">
+<br/>
 
 #### - 👋 Hi, I’m @hardik-khandelwal
 #### - 🌱 I’m currently learning React Native/Python(CP)
