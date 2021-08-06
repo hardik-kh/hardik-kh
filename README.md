@@ -1,6 +1,6 @@
 
 
-<img src="program.gif" height="300" width="400" align="right">
+<img src="program.gif" height="250" width="300" align="right">
 <br/>
 
 #### - 👋 Hi, I’m @hardik-khandelwal
