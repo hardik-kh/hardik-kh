@@ -5,6 +5,7 @@
 
 #### - 👋 Hi, I’m @hardik-khandelwal
 #### - 🌱 I’m currently learning React Native/Python(CP)
+#### - 📱 I'm an Andriod devloper 
 #### - 💞️ I’m looking to collaborate for projects
 <br/>
 <br/>
