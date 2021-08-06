@@ -15,7 +15,7 @@
 <br/>
 
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smgrv123&theme=dark">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hardik-kh&theme=dark">
 </p>
   <br/>
 
