@@ -1,5 +1,5 @@
 
-#### - 👋 Hi, I’m @hardik-khandelwal
+##  👋 Hi, I’m @hardik-khandelwal
 <img src="program.gif" height="250" width="400" align="right">
 <br/>
 
