@@ -1,9 +1,9 @@
 
-
+#### - 👋 Hi, I’m @hardik-khandelwal
 <img src="program.gif" height="250" width="400" align="right">
 <br/>
 
-#### - 👋 Hi, I’m @hardik-khandelwal
+
 #### - 🌱 I’m currently learning React Native/Python(CP)
 #### - 📱 I'm an Andriod devloper 
 #### - 💞️ I’m looking to collaborate for projects
