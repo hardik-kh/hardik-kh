@@ -14,7 +14,7 @@
 <br/>
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hardik-kh&theme=dark" align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hardik-kh&theme=dark">
 
 <div>
 <img height="160" align="left" src="https://github-readme-stats.vercel.app/api?username=hardik-kh&show_icons=true&title_color=fff&icon_color=79ff97&text_color=D3D3D3&bg_color=0,000000,130F40">
