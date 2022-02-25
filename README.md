@@ -6,6 +6,7 @@
 
 ### - 🌱 I’m currently learning React Native/Python(CP)
 ### - 📱 I'm an Andriod devloper 
+### - 💻 I'm also AI/ML enthusiast
 ### - 💞️ I’m looking to collaborate for projects
 <br/>
 <br/>
