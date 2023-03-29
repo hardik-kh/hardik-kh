@@ -23,9 +23,6 @@
 
 <div>
 <img height="150" align="left" src="https://github-readme-stats.vercel.app/api?username=hardik-kh&show_icons=true&">
- 
- 
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=hardik-kh&show_icons=true&theme=dark" alt="Hardik's Github Stats">
 
 <img height="150" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardik-kh&layout=compact">
   </div>
