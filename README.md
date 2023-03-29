@@ -27,7 +27,7 @@
 <br/>
 <br/>
 <br/>
-<img height="150" width="150" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardik-kh&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Hardik's Github Stats">
+<img height="150" width="600" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardik-kh&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Hardik's Github Stats">
   </div>
 
 <!---
