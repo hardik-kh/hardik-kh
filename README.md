@@ -24,7 +24,7 @@
 <div>
 <img height="150" align="left" src="https://github-readme-stats-ruby-one.vercel.app/api?username=hardik-kh&show_icons=true&theme=dark">
 
-<img height="150" align="right" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=hardik-kh&layout=compact&theme=dark">
+<img height="150" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardik-kh&layout=compact&theme=dark">
   </div>
 
 <!---
