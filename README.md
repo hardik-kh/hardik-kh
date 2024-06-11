@@ -22,7 +22,7 @@
  <br/>
 
 <p align='center' >
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hardik-kh&include_all_commits=true&count_private=true&show_icons=true" alt="Hardik's Github Stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hardik-kh&include_all_commits=true&count_private=true&show_icons=true&theme=dark" alt="Hardik's Github Stats">
 
 </br>
 </br>
