@@ -1,31 +1,14 @@
-### < Hello World /> <img src="./wave-hello.gif" width="40px">
-
-<hr>
 
 <img align="right" alt="GIF" height="200px" src="./bit.png" />
-📱 Passionate about crafting stunning mobile apps with a creative flair! 🌟 As a full-stack development and UI/UX expert, I specialize in transforming concepts into seamless, user-friendly experiences. Let's turn your ideas into app masterpieces! 🚀 </br>
+📱 A passionate data science enthusiast pursuing a Master's, skilled in Python, SQL, and data visualization. My primary focus areas include Time Series Analysis, Machine Learning, and Exploratory Data Analysis. Still, I'm always excited to explore new domains in the ever-evolving field of data science. 🚀 </br>
 
-- 🌱 I’m currently learning -  Flutter, MERN and ML
-- 👯 I’m looking to collaborate on - Development or Open source projects
-- 💬 Ask me about - Flutter, Java, C/C++....
-- 😄 Pronouns: He/They
-- 📫 Let's Connect: <br>
+-  I’m currently learning -  Neural Networks, Big Data Processing
+-  Exploring real-world applications of natural language processing and Machine Learing
+-  You can reach me through 👇
 
-  <a href="https://github.com/aryamanshrivastava" target="_blank">
-  <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://twitter.com/Aryaman0702" target="_blank">
-  <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://www.linkedin.com/in/aryaman07/" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://instagram.com/arryaman_?utm_medium=copy_link" target="_blank">
-  <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=darkpink" alt=instagram style="margin-bottom: 5px;" />
-  </a>
-  <br/>
-  <p align="center"> (Open for Hiring)</p>
-<hr>
+<br />[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/hardik-kh107/)  &nbsp; 
+    [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/hardik.kh/)  &nbsp; 
+    <a href="mailto:hardik.eldeco@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>  
 
 ## 💢Languages and Tools:
 
