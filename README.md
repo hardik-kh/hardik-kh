@@ -14,7 +14,7 @@ A passionate data science enthusiast pursuing a Master's, skilled in Python, SQL
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,postgres,opencv,mysql,sklearn,cpp,vscode,stackoverflow&theme=light" />
+    <img src="https://skillicons.dev/icons?i=py,postgres,opencv,mysql,sklearn,cpp,vscode,stackoverflow,js&theme=light" />
   </a>
 </p>
 
