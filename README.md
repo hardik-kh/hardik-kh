@@ -1,5 +1,5 @@
 <h1 align="center">Hello World, I am Hardik👋</h1>
-<hr>
+
 <img align="right" alt="GIF" height="200px" src="./bit.png" />
 A passionate data science enthusiast pursuing a Master's, skilled in Python, SQL, and data visualization. My primary focus areas include Time Series Analysis, Machine Learning, and Exploratory Data Analysis. Still, I'm always excited to explore new domains in the ever-evolving field of data science. 🚀 </br>
 
