@@ -4,8 +4,7 @@ A passionate data science enthusiast pursuing a Master's, skilled in Python, SQL
 -  I’m currently learning -  Neural Networks, Big Data Processing
 -  Exploring real-world applications of natural language processing and Machine Learing
 -  You can reach me through 👇
-
-<br />[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/hardik-kh107/)  &nbsp; 
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/hardik-kh107/)  &nbsp; 
     [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/hardik.kh/)  &nbsp; 
     <a href="mailto:hardik.eldeco@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>  
 
