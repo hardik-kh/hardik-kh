@@ -1,6 +1,5 @@
-
 <img align="right" alt="GIF" height="200px" src="./bit.png" />
-📱 A passionate data science enthusiast pursuing a Master's, skilled in Python, SQL, and data visualization. My primary focus areas include Time Series Analysis, Machine Learning, and Exploratory Data Analysis. Still, I'm always excited to explore new domains in the ever-evolving field of data science. 🚀 </br>
+A passionate data science enthusiast pursuing a Master's, skilled in Python, SQL, and data visualization. My primary focus areas include Time Series Analysis, Machine Learning, and Exploratory Data Analysis. Still, I'm always excited to explore new domains in the ever-evolving field of data science. 🚀 </br>
 
 -  I’m currently learning -  Neural Networks, Big Data Processing
 -  Exploring real-world applications of natural language processing and Machine Learing
