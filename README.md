@@ -20,10 +20,10 @@ A passionate data science enthusiast pursuing a Master's, skilled in Python, SQL
 
 ## 🏆GitHub Analytics
 <p align="center"> 
-<img height="300" width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=hardik-kh&theme=dark&hide_border=false" alt="Stats" />
+<img align="center" height="300" width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=hardik-kh&theme=dark&hide_border=false" alt="Stats" />
 <br>
-<img height="165" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardik-kh&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact&langs_count=10&exclude_repo=gamebase&hide=objective-c,c" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardik-kh&theme=dark&hide_border=false"" alt="Hardik's Github Stats">
+<img  height="165" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardik-kh&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact&langs_count=10&exclude_repo=gamebase&hide=objective-c,c" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardik-kh&theme=dark&hide_border=false"" alt="Hardik's Github Stats">
   
 </p>
 <samp>
