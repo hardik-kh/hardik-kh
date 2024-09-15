@@ -10,9 +10,9 @@ A passionate data science enthusiast pursuing a Master's, skilled in Python, SQL
 
 ## 💢Languages and Tools:
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,vscode,postgres,opencv,mysql,sklearn" />
+    <img src="https://skillicons.dev/icons?i=py,vscode,postgres,opencv,mysql,sklearn,cpp,stackoverflow&theme=light" />
   </a>
 </p>
 
