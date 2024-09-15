@@ -26,4 +26,4 @@ A passionate data science enthusiast pursuing a Master's, skilled in Python, SQL
   
 </p>
 
-![snake animation](https://github.com/hardik-kh/hardik-kh/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/hardik-kh/hardik-kh/blob/output/github-contribution-grid-snake.svg)
