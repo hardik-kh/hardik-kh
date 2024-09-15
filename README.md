@@ -37,8 +37,5 @@ A passionate data science enthusiast pursuing a Master's, skilled in Python, SQL
 <h3  align="center">💻 Check Out My Repos ⬇️ </h3>
 <br>
 
-<!--## 💰 You can help me by Donating
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/flutterboy) -->
 
-
-![](https://komarev.com/ghpvc/?username=aryamanshrivastava&color=blue)
+![](https://komarev.com/ghpvc/?username=hardik-kh&color=blue)
